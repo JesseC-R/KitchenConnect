@@ -4,23 +4,30 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+	<h1>Welcome to KitchenConnect</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
-
-	<pre>npm create svelte@latest</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
+		The premier social media platform designed for cooking enthusiasts of all skill levels,
+		from aspiring home cooks to professional chefs. KitchenConnect is revolutionizing the culinary
+		landscape by providing a seamless experience for discovering, sharing, and creating recipes,
+		as well as fostering a vibrant community of food lovers.
 	</p>
 
 	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
+		In a digital age where 71% of people rely on online recipes, KitchenConnect stands as the
+		comprehensive solution for individuals seeking culinary inspiration, knowledge, and
+		connection. Our platform addresses fundamental questions faced by cooking enthusiasts:
 	</p>
+	<p>- How can we enhance the readability and accessibility of recipes?</p>
+	<p>- What is the best way to preserve treasured family recipes in the digital era?</p>
+	<p>- How can we empower novice chefs with essential culinary skills?</p>
+
+	<p>
+		KitchenConnect caters to a diverse audience, including:
+	</p>
+	<p>- Novice cooks seeking guidance and inspiration to embark on their culinary journey.</p>
+	<p>- Experienced chefs looking to share their expertise and connect with fellow food enthusiasts.</p>
+	<p>- Individuals eager to preserve and digitize their family's cherished recipes for future generations.</p>
+	<p>- Anyone who simply enjoys food and the joy of cooking, regardless of skill level or experience.</p>
+
 </div>
